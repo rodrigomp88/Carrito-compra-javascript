@@ -1,11 +1,11 @@
-# Carrito de compra💻
+# Carrito de compra
 
-View onlie demo 👉 [carrito de compra](https://rodrigomp88.github.io/Carrito-compra-javascript/).
+View onlie demo [carrito de compra](https://rodrigomp88.github.io/Carrito-compra-javascript/).
 
-## Stack 🔩⚙
+## Stack
 
 JavaScript
 
-## Description 📜
+## Description
 
 carrito de compra con javaScript
